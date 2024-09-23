@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\gitgit\tipofail\x64\Debug\tipofail.exe</FullPath>
+      <FullPath>C:\gitgit\mydir\tipofail\x64\Debug\tipofail.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

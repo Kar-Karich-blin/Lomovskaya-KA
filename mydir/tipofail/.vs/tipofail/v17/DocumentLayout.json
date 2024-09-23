@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\gitgit\\tipofail\\",
+  "WorkspaceRootPath": "C:\\gitgit\\mydir\\tipofail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EDB85F9-3F44-45B3-9E17-3C26CD8BF9EB}|tipofail.vcxproj|C:\\gitgit\\tipofail\\tipofail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3EDB85F9-3F44-45B3-9E17-3C26CD8BF9EB}|tipofail.vcxproj|C:\\gitgit\\mydir\\tipofail\\tipofail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3EDB85F9-3F44-45B3-9E17-3C26CD8BF9EB}|tipofail.vcxproj|solutionrelative:tipofail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "tipofail.cpp",
-              "DocumentMoniker": "C:\\gitgit\\tipofail\\tipofail.cpp",
+              "DocumentMoniker": "C:\\gitgit\\mydir\\tipofail\\tipofail.cpp",
               "RelativeDocumentMoniker": "tipofail.cpp",
-              "ToolTip": "C:\\gitgit\\tipofail\\tipofail.cpp",
+              "ToolTip": "C:\\gitgit\\mydir\\tipofail\\tipofail.cpp",
               "RelativeToolTip": "tipofail.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
