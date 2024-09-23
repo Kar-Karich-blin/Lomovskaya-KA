@@ -1,0 +1,4 @@
+﻿  tipofail.cpp
+C:\gitgit\tipofail\tipofail.cpp(7,9): warning C4101: a: неиспользованная локальная переменная
+C:\gitgit\tipofail\tipofail.cpp(7,12): warning C4101: b: неиспользованная локальная переменная
+  tipofail.vcxproj -> C:\gitgit\tipofail\x64\Debug\tipofail.exe
